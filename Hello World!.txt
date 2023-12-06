@@ -1,5 +1,13 @@
 Welcome to beginner user for using github
 Updated New Line!
+<<<<<<< HEAD
 -----------------------------------------
 Add third Statements :)
 Vatanna is so handsome 
+=======
+
+
+
+
+Hello lady and gentleman welcome to our offical annoucement of new movie and tv show will be released in next year. We are so excited to annouce new shows and movies, cast, crew and some new project will be goint on next year forward to next movement. 
+>>>>>>> c8d2511ad1fb6e6cfe76e1a197c026a6f2ae4939
